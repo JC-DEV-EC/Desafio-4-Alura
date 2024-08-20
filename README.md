@@ -31,13 +31,13 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/LatinGladiador/Desafio-4-Adivina-el-Numero.git
+    git clone https://github.com/LatinGladiador/Desafio-4-Alura.git
     ```
 
 2. **Navega al directorio del proyecto**:
 
     ```bash
-    cd Desafio-4-Adivina-el-Numero
+    cd Desafio-4-Alura
     ```
 
 3. **Abre el archivo `index.html` en tu navegador**.
